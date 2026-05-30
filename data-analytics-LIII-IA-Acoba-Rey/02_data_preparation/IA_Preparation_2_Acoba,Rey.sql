@@ -1,0 +1,1 @@
+UPDATE stores SET store_name = TRIM(store_name);

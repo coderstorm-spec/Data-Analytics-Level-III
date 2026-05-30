@@ -1,0 +1,1 @@
+UPDATE stores SET region = 'Visayas' WHERE store_id='S005'
