@@ -29,7 +29,7 @@ Executive summary with 3+ evidence-based insights and a recommendation;
 
 ## PUBLISHED Power BI report on the Power BI Service
 ## Tools used (Excel version, SQLite, Power BI Desktop) and any setup notes needed to open the .pbix
-## I hereby certify that this Power BI analysis and report are my own work. All data processing, 
+I hereby certify that this Power BI analysis and report are my own work. All data processing, 
 analysis, visualizations, interpretations, and conclusions were completed honestly and in 
 accordance with academic integrity standards. Any references, tools, or resources used in 
 the completion of this project have been properly acknowledged where applicable.
